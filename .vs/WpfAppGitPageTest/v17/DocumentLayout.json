@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\test\\WpfAppGitPageTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{84E0677C-BBCA-46AC-A3BB-A2C2E9ECFE13}|WpfAppGitPageTest.csproj|d:\\test\\wpfappgitpagetest\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{84E0677C-BBCA-46AC-A3BB-A2C2E9ECFE13}|WpfAppGitPageTest.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{52757A97-D72C-4144-9A0B-59B4841600E0}|WpfAppGitPageTest\\WpfAppGitPageTest.csproj|d:\\test\\wpfappgitpagetest\\wpfappgitpagetest\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{52757A97-D72C-4144-9A0B-59B4841600E0}|WpfAppGitPageTest\\WpfAppGitPageTest.csproj|solutionrelative:wpfappgitpagetest\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84E0677C-BBCA-46AC-A3BB-A2C2E9ECFE13}|WpfAppGitPageTest.csproj|d:\\test\\wpfappgitpagetest\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84E0677C-BBCA-46AC-A3BB-A2C2E9ECFE13}|WpfAppGitPageTest.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{52757A97-D72C-4144-9A0B-59B4841600E0}|WpfAppGitPageTest\\WpfAppGitPageTest.csproj|d:\\test\\wpfappgitpagetest\\wpfappgitpagetest\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52757A97-D72C-4144-9A0B-59B4841600E0}|WpfAppGitPageTest\\WpfAppGitPageTest.csproj|solutionrelative:wpfappgitpagetest\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,25 +36,25 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\test\\WpfAppGitPageTest\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "D:\\test\\WpfAppGitPageTest\\MainWindow.xaml",
-              "RelativeToolTip": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\test\\WpfAppGitPageTest\\WpfAppGitPageTest\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfAppGitPageTest\\MainWindow.xaml",
+              "ToolTip": "D:\\test\\WpfAppGitPageTest\\WpfAppGitPageTest\\MainWindow.xaml",
+              "RelativeToolTip": "WpfAppGitPageTest\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-19T06:56:00.694Z",
+              "WhenOpened": "2024-12-19T07:50:18.54Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\test\\WpfAppGitPageTest\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "D:\\test\\WpfAppGitPageTest\\MainWindow.xaml.cs",
-              "RelativeToolTip": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\test\\WpfAppGitPageTest\\WpfAppGitPageTest\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppGitPageTest\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\test\\WpfAppGitPageTest\\WpfAppGitPageTest\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfAppGitPageTest\\MainWindow.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T06:55:55.643Z"
+              "WhenOpened": "2024-12-19T07:50:17.916Z"
             }
           ]
         }
