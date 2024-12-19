@@ -18,6 +18,9 @@ jobs:
           git config --global user.name github-actions
           git config --global user.email github-actions@github.com          
 
+      - name: Add msbuild to PATH
+        uses: microsoft/setup-msbuild@v2.0.0
+
       - name: Run release script
         shell: pwsh
         run: ./release.ps1
