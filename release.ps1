@@ -5,6 +5,8 @@ param (
     [switch]$OnlyBuild=$false
 )
 
+
+
 $appName = "WpfAppGitPageTest" #  Replace with your application project name.
 $projDir = "WpfAppGitPageTest" #  Replace with your project directory (where .csproj resides).
 
